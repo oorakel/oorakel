@@ -1,6 +1,6 @@
 ## oorakel
 
-i love making videogames, but i also explore and dabble in many other aspects tech such as cybersecurity, software, and devops.
+i love making videogames, but i also explore and dabble in many other aspects of tech such as cybersecurity, software, and devops.
 
 i'm far from the best, but i keep learning because i want to look back one day and be amazed by how far i've come. 
 <!--
