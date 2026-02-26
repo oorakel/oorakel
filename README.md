@@ -5,7 +5,7 @@ i was born at a young age<br>
 and grew up making bad videogames<br>
 still making these videogames while dabbling in many other aspects of tech such as cybersecurity, software, and ai.
 
-i'm might not be the best, but i keep learning because i want to look back one day and be amazed by how far i've come.
+i may not be the best, but i keep learning because i want to look back one day and be amazed by how far i've come.
 
 previously [@sconser](https://github.com/sconser)
 <!--
