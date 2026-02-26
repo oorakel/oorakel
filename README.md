@@ -1,9 +1,10 @@
 ## oorakel
 
 i love making videogames, but i also explore and dabble in many other aspects of tech such as cybersecurity, software, and ai.
+
 i'm far from the best, but i keep learning because i want to look back one day and be amazed by how far i've come. 
 
-previously @sconser
+previously [@sconser](https://github.com/sconser)
 <!--
 **oorakel/oorakel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
